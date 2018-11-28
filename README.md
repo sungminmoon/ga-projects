@@ -62,3 +62,4 @@ Your instructor will explain how to submit your assignment. Typically, this is d
 - Forking the project repository, adding your solutions, and submitting a pull request back to the relevant repo.
 # ga-projects
 # ga_projects
+# ga_projects
